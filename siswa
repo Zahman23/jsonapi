@@ -1,0 +1,20 @@
+ [
+    {
+      "id": 1,
+      "nama": "Mamat",
+      "sekolah": "SMA 3 Bandung update",
+      "nisn": 53412345
+    },
+    {
+      "id": 1,
+      "nama": "Jajang",
+      "sekolah": "SMA 3 Bandung",
+      "nisn": 51234123
+    },
+    {
+      "id": 3,
+      "nama": "Edah",
+      "sekolah": "SMA 6 Bandung",
+      "nisn": 31245234
+    }
+  ]
